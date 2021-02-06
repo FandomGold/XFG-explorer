@@ -2,7 +2,7 @@
 Currently available Fango bounties
 
 create documentation for easy CLI solo mining setup (1000)
-+ add window in fango-wallet linking to aforementioned CLI solo mining how-to (+500)
+add window in fango-wallet linking to aforementioned CLI solo mining how-to (+500)
 Fix those tooltips in GUI (1000)
 Make fandomgold CLI ReleaseNotes.txt up to date (500)
 Windows Travis-Ci build for CLI (1000)
