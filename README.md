@@ -13,6 +13,8 @@ Currently available Fango bounties
 
 6) deb builds & snap store (2000)
 
-7) Fango tvOS wallet (10,000)
+7) Fango mobile wallet app(s) (10,000)
 
-8) Work on Building out a "How Can I Help ?" wiki. Docs ordered by types of skill set / different interests...  i.e.  programmers, investors, community managers, network services, task organizers, Art & Design, Info/news & Media, translator, :scroll:(2000)
+8) Run a Fango v1.8.01 testnet node (300/monthly)
+
+9) Create a "How Can I Help ?" wiki. Docs ordered by types of skill set / different interests...  i.e.  programmers, investors, community managers, network services, task organizers, Art & Design, Info/news & Media, translator, (2000)
