@@ -1,5 +1,5 @@
-# XF₲ bounty list
-Currently available Fango bounties
+# Fango bounty list
+Currently available bounties paid in XFG
 
 1) create documentation for easy CLI solo mining setup (₲1000)
 
