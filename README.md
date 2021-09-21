@@ -1,6 +1,8 @@
 # Fango (XFG) bounty list
-Add any current available bounties payable in XFG
+Add any currently available bounty payable in XFG
+-----
 Claim by way of pull request, currently. (TODO : add contact/links for each bounty) 
+_________________________
 
 1) create documentation for easy CLI solo mining setup (₲1000)
 
